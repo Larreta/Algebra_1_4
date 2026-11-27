@@ -1,0 +1,14 @@
+SUBE ESTOS ARCHIVOS EN LA RAÍZ DEL REPOSITORIO NUEVO, UNO POR SUBIDA Y COMMIT.
+No extraigas Fuentes_VSCode.zip para publicar. No subas el ZIP exterior como sustituto de index.html.
+
+.nojekyll
+ARCHIVOS_GITHUB.txt
+Coleccion_1_4.pdf
+Fuentes_VSCode.zip
+Guia_1_4.pdf
+LEEME.md
+REVISION.md
+index.html
+pdfs_1_4_01.js
+pdfs_1_4_02.js
+recursos_1_4.js
